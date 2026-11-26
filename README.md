@@ -1,6 +1,7 @@
-# Blokbay for Akaunting
+# Blokbay for Akaunting: crypto invoices in USDC and USDT
 
-Get your Akaunting sales invoices paid in **USDC or USDT**. One click on a sent invoice creates a Blokbay invoice with the same
+Get your Akaunting sales invoices paid in **USDC or USDT**: accept crypto payments straight to your own wallet (non-custodial), on
+Ethereum, Solana, Base, Polygon, Arbitrum or BNB Chain. One click on a sent invoice creates a Blokbay invoice with the same
 lines and total, and puts a **Pay in USDC/USDT** link and button on the invoice page, the PDF, the customer invoice page and the
 invoice email. When your customer pays, Blokbay sends a signed webhook, the module reads the invoice again from the Blokbay API and
 registers the payment on the Akaunting invoice, which becomes paid.
@@ -72,3 +73,5 @@ id-ID, ar-SA, vi-VN, pl-PL.
 ## Support
 
 mail@blokbay.com
+
+Keywords: Akaunting crypto payments, Akaunting USDC, crypto invoice, stablecoin invoice, USDC invoice, USDT invoice, invoice payment link, accept crypto, B2B crypto payments, non-custodial, Web3 invoicing, blockchain invoice, accounts receivable, international payments.
