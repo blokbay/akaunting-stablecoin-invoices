@@ -1,0 +1,28 @@
+{
+    "config": {
+        "autoloader-suffix": "Blokbay"
+    },
+    "name": "blokbay/akaunting-blokbay",
+    "description": "Blokbay app for Akaunting: stablecoin invoices paid in USDC or USDT",
+    "homepage": "https://blokbay.com",
+    "keywords": [
+        "akaunting",
+        "invoice",
+        "usdc",
+        "usdt",
+        "stablecoin",
+        "blokbay"
+    ],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Blokbay",
+            "email": "mail@blokbay.com",
+            "homepage": "https://blokbay.com"
+        }
+    ],
+    "support": {
+        "email": "mail@blokbay.com",
+        "docs": "https://blokbay.com/docs/api#invoices"
+    }
+}
